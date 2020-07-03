@@ -1,0 +1,40 @@
+body {
+background-color: #eeeeee
+}
+/******************TAG SELECTORS******************/
+h1 {
+  color: #f69e7b;
+  font-size: 140px
+}
+
+img:hover {
+  background-color: gold;
+}
+
+p{
+  color: red;
+}
+
+/*
+img {
+background-color: #f69e7b;
+}
+*/
+/*******************************CLASS SELECTORS***************************/
+.bacon {
+background-color: green;
+}
+.broccoli {
+  background-color: red;
+}
+.First {
+  color: Orange;
+}
+.Second {
+  color: Black;
+}
+/*******************************ID SELECTORS***************************/
+#heading:hover{
+  color: #f69e7b;
+  font-family: "Lucida Console", Courier, monospace;
+}
